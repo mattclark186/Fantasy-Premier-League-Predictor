@@ -1,5 +1,7 @@
 # ⚽ Fantasy-Premier-League-Predictor
 
+[Python Code](https://github.com/mattclark186/Fantasy-Premier-League-Predictor/blob/main/FPL%20Predictor.ipynb)
+
 ## 📌 Overview
 ### Data preparation, feature engineering, machine learning and visualisation, all done in Python. 
 
