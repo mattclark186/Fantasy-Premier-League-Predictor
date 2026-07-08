@@ -1,9 +1,9 @@
 # ⚽ Fantasy-Premier-League-Predictor
 
 ## 📌 Overview
- - Data preparation, feature engineering, machine learning modelling and results visualisation, all done in Python. 
+Data preparation, feature engineering, machine learning modelling and results visualisation, all done in Python. 
 
- - Developed four XGBoost regression models (one per position) to predict a player's points in the next Fantasy Premier League gameweek based on historical player and team performance data.
+Developed four XGBoost regression models (one per position) to predict a player's points in the next Fantasy Premier League gameweek based on historical player and team performance data.
 
 ## 🏆 Outcome
 The models achieved consistent performance across positions, with average prediction **errors of 1.1 to 1.4 points** per gameweek.
