@@ -1,10 +1,14 @@
 # ⚽ Fantasy-Premier-League-Predictor
 
-## 📌 Objective
+## 📌 Overview
+A data science project that includes data preparation, feature engineering, machine learning modelling and results visualisation, all in Python. 
+
+The goal was to predict the points a player will get in the upcoming FPL gameweek based on player and team performance data for the season so far.
 
 ## 🏆 Outcome
+A model was trained for each position (GK, DEF, MID, FWD), with R^2 values from 0.32-0.37, MAE values of 1.1-1.4, and RMSE values of 1.9-2.3.
 
-## 📝 Description
+## 📝 Details
 
 ### What is Fantasy Premier League?
 
