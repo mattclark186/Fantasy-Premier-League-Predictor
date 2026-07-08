@@ -44,6 +44,6 @@ Fantasy Premier League (referred to commonly as FPL) is a game where players sel
 
 ## Data Sources
 
-[FPL Data](www.fpl-data.co.uk/statistics)
+[FPL Data](https://www.fpl-data.co.uk/statistics)
 
-[Premier League](www.premierleague.com)
+[Premier League](https://www.premierleague.com)
