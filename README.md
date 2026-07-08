@@ -27,7 +27,8 @@ The models achieved consistent performance across positions, with average predic
  3. **Modelling** Tuning hyperparameters of XGBoost models using GridSearchCV.
  4. **Visualisation** Creating visualisations that show the performance of the models.
 
-**Tools Used**
+### Tools Used
+
 Python, Pandas, NumPy, Matplotlib, SKLearn, XGBoost
 
 ## 📊 Visualisations
