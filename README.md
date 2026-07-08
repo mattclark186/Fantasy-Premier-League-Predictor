@@ -15,7 +15,7 @@ The models achieved consistent performance across positions, with average predic
 | MID      | 0.366 | 1.212 | 2.016 |
 | FWD      | 0.321 | 1.346 | 2.277 |
 
-The RMSE values being higher than the MAE values show that the predicitons are occasionally significantly far from the actual values, despite the MAE values showing the predictions are relatively close on average.
+The RMSE values being higher than the MAE values shows that the predicitons are occasionally significantly far from the actual values, despite the MAE values alone showing the predictions are relatively close on average.
 
 ## 📝 Details
 
