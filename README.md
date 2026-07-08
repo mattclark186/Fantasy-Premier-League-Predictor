@@ -19,11 +19,18 @@ The RMSE values being higher than the MAE values shows that the predicitons are 
 
 ## 📝 Details
 
+### Tools Used
+Python, Pandas, NumPy, Matplotlib, SKLearn, XGBoost
+
 ### Key Steps
  1. **Data Preparation** Aligning formatting and merging data into a single dataframe, renaming columns, renaming positions, removing outliers, sorting data.
  2. **Feature Engineering** Creating multiple new features, including mathematically combining existing features and creating rolling lags.
  3. **Modelling** Tuning hyperparameters of XGBoost models using GridSearchCV.
  4. **Visualisation** Creating visualisations that show the performance of the models.
+
+### Visualisations
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/aa7ae4be-8077-4e30-8a5e-b64dc342080d" />
+
 
 ### What is Fantasy Premier League?
 
