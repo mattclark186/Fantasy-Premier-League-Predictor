@@ -6,7 +6,7 @@ Data preparation, feature engineering, machine learning modelling and results vi
 Developed four XGBoost regression models (one per position) to predict a player's points in the next Fantasy Premier League gameweek based on historical player and team performance data.
 
 ## 🏆 Outcome
-The models achieved consistent performance across positions, with average prediction **errors of 1.1 to 1.4 points** per gameweek.
+The models achieved consistent performance across positions, with average prediction **errors of 1.1 to 1.4 points** per gameweek. Relatively low MAE values with higher RMSE values indicate that the predictions are fairly accurate on average but with occasional large errors.
 
 | Position | R² | MAE | RMSE |
 |----------|----|-----|------|
@@ -15,7 +15,6 @@ The models achieved consistent performance across positions, with average predic
 | MID      | 0.366 | 1.212 | 2.016 |
 | FWD      | 0.321 | 1.346 | 2.277 |
 
-Relatively low MAE values with higher RMSE values indicate that the predictions are fairly accurate on average but with occasional large errors.
 
 ## 📝 Details
 
