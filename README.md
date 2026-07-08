@@ -28,9 +28,12 @@ Python, Pandas, NumPy, Matplotlib, SKLearn, XGBoost
  3. **Modelling** Tuning hyperparameters of XGBoost models using GridSearchCV.
  4. **Visualisation** Creating visualisations that show the performance of the models.
 
-### Visualisations
+### Visualisation
+Predicted vs actual points, with the dashed black lines representing perfect predictions. The predictions follow the general trend of the points scored well. However, the models are far better at predicting lower scores, as the coloured points are generally closer to the dashed line towards the lower end. This means the best-scoring gameweeks will often be underestimated.
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/aa7ae4be-8077-4e30-8a5e-b64dc342080d" />
 
+This illustrates the broad consistency across positions. It also shows the RMSE is notably higher than the MAE for each position, again showing that the best-scoring gameweeks will be underestimated.
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/2b863269-5429-41a6-be3d-7296926127fa" />
 
 ### What is Fantasy Premier League?
 
