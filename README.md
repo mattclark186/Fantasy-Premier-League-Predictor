@@ -3,13 +3,13 @@
 [Python Code](https://github.com/mattclark186/Fantasy-Premier-League-Predictor/blob/main/FPL%20Predictor.ipynb)
 
 ## 📌 Overview
+Developed four XGBoost regression models (one per position) to predict a player's points in the next Fantasy Premier League gameweek based on historical player & team performance data.
+
 - Data preparation
 - Feature engineering
 - Machine learning
 - Visualisation
 - All done in Python
-
-Developed four XGBoost regression models (one per position) to predict a player's points in the next Fantasy Premier League gameweek based on historical player & team performance data.
 
 ## 🏆 Outcome
 The models achieved consistent performance across positions, with average prediction **errors of 1.1 to 1.4 points** per gameweek. Relatively low MAE values with higher RMSE values indicate that the predictions are fairly accurate on average but with occasional large errors.
