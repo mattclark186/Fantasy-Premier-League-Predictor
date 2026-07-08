@@ -6,7 +6,7 @@
  - The goal was to predict the points a player will get in the upcoming FPL gameweek based on player and team performance data for the season so far.
 
 ## 🏆 Outcome
-A model was trained for each position (GK, DEF, MID, FWD), with R^2 values from 0.32-0.37, MAE values of 1.1-1.4, and RMSE values of 1.9-2.3.
+A model was trained for each position (GK, DEF, MID, FWD), with values of *R^2 0.32-0.37*, !MAE 1.1-1.4!, and RMSE 1.9-2.3.
 
 ## 📝 Details
 
