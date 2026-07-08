@@ -30,7 +30,7 @@ Python, Pandas, NumPy, Matplotlib, SKLearn, XGBoost
 
 ## 📊 Visualisations
 ### Predicted vs Actual
-Predicted vs actual points, with the dashed black lines representing perfect predictions. The predictions follow the general trend of the points scored well. However, the models are far better at predicting lower scores, as the coloured points are generally closer to the dashed line towards the lower end. This means the best-scoring gameweeks will often be underestimated.
+Predicted gameweek points vs the actual gameweek points, with the dashed black lines representing perfect predictions. The predictions follow the general trend of the points scored well. However, the models are far better at predicting lower scores, as the coloured points are generally closer to the dashed line towards the lower end. This means the best-scoring gameweeks will often be underestimated.
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/aa7ae4be-8077-4e30-8a5e-b64dc342080d" />
 
