@@ -19,6 +19,12 @@ The RMSE values being higher than the MAE values shows that the predicitons are 
 
 ## 📝 Details
 
+### Key Steps
+ 1. **Data Preparation** Aligning formatting and merging data into a single dataframe, renaming columns, renaming positions, removing outliers, sorting data.
+ 2. **Feature Engineering** Creating multiple new features, including mathematically combining existing features and creating rolling lags.
+ 3. **Modelling** Tuning hyperparameters of XGBoost models using GridSearchCV.
+ 4. **Visualisation** Creating visualisations that show the performance of the models.
+
 ### What is Fantasy Premier League?
 
 Fantasy Premier League (referred to commonly as FPL) is a game where players select real footballers to be in their fantasy team, who will score in-game points based on their real-life performance in matches. Footballers are assigned a value and players must remain within their budget when choosing their team. Points are earned by actions such as scoring goals, getting assists or getting clean sheets (i.e. not conceding any goals), amongst many others. Points can also be lost by negative actions, such as receiving a red card. Players can make a limited number of changes to their team throughout the 10-month season, meaning it would be very valuable to be able to predict whether a player will score high or low in their upcoming game. The key to success is to have a team filled with footballers who score high, particularly relative to their assigned value.
