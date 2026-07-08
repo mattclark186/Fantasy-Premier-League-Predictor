@@ -3,10 +3,16 @@
 ## 📌 Overview
  - A data science project that includes data preparation, feature engineering, machine learning modelling and results visualisation, all in Python. 
 
- - The goal was to predict the points a player will get in the upcoming FPL gameweek based on player and team performance data for the season so far.
+ - XGBoost models used predict the points a player will get in the upcoming FPL gameweek based on player and team performance data for the season so far.
 
 ## 🏆 Outcome
-A model was trained for each position (GK, DEF, MID, FWD), with values of *R^2 0.32-0.37*, !MAE 1.1-1.4!, and RMSE 1.9-2.3.
+A model was trained for each position (GK, DEF, MID, FWD), with values of **R^2 0.32-0.37**, **MAE 1.1-1.4**, and **RMSE 1.9-2.3**.
+| Position | R² | MAE | RMSE |
+|----------|----|-----|------|
+| GK       | 0.324 | 1.145 | 1.985 |
+| DEF      | 0.348 | 1.399 | 2.172 |
+| MID      | 0.366 | 1.212 | 2.016 |
+| FWD      | 0.321 | 1.346 | 2.277 |
 
 ## 📝 Details
 
