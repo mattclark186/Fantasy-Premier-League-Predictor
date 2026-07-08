@@ -29,7 +29,7 @@ Python, Pandas, NumPy, Matplotlib, SKLearn, XGBoost
  4. **Visualisation** Creating visualisations that show the performance of the models.
 
 ### Visualisations
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/aa7ae4be-8077-4e30-8a5e-b64dc342080d" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/aa7ae4be-8077-4e30-8a5e-b64dc342080d" />
 
 
 ### What is Fantasy Premier League?
