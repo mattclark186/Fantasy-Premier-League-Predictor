@@ -21,15 +21,14 @@ The models achieved consistent performance across positions, with average predic
 | MID      | 0.366 | 1.212 | 2.016 |
 | FWD      | 0.321 | 1.346 | 2.277 |
 
-
-## 🛠️ Tools Used
-Python, Pandas, NumPy, Matplotlib, SKLearn, XGBoost
-
-## 💡 Key Steps
+## 🛠️ Key Steps
  1. **Data Preparation** Aligning formatting and merging data into a single dataframe, renaming columns, renaming positions, removing outliers, sorting data.
  2. **Feature Engineering** Creating multiple new features, including mathematically combining existing features and creating rolling lags.
  3. **Modelling** Tuning hyperparameters of XGBoost models using GridSearchCV.
  4. **Visualisation** Creating visualisations that show the performance of the models.
+
+**Tools Used**
+Python, Pandas, NumPy, Matplotlib, SKLearn, XGBoost
 
 ## 📊 Visualisations
 ### Predicted vs Actual
